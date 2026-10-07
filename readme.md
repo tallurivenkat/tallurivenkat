@@ -15,4 +15,4 @@
 - [**AngularDirectives**](https://github.com/tallurivenkat/AnguarDirectives) – Reusable AngularJS directives and filters
 
 ## 📫 Connect
-[LinkedIn]([your-link](https://www.linkedin.com/in/venkat-talluri-2396ab9/)) · [Email](mailto:tallurivenkat@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/venkat-talluri-2396ab9/)) · [Email](mailto:tallurivenkat@gmail.com)
